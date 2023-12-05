@@ -1,0 +1,14 @@
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Observer\ObserverWeatherTvs\bin\Debug\net6.0\ObserverWeatherTvs.exe
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Observer\ObserverWeatherTvs\bin\Debug\net6.0\ObserverWeatherTvs.deps.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Observer\ObserverWeatherTvs\bin\Debug\net6.0\ObserverWeatherTvs.runtimeconfig.json
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Observer\ObserverWeatherTvs\bin\Debug\net6.0\ObserverWeatherTvs.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Observer\ObserverWeatherTvs\bin\Debug\net6.0\ObserverWeatherTvs.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Observer\ObserverWeatherTvs\obj\Debug\net6.0\ObserverWeatherTvs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Observer\ObserverWeatherTvs\obj\Debug\net6.0\ObserverWeatherTvs.AssemblyInfoInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Observer\ObserverWeatherTvs\obj\Debug\net6.0\ObserverWeatherTvs.AssemblyInfo.cs
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Observer\ObserverWeatherTvs\obj\Debug\net6.0\ObserverWeatherTvs.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Observer\ObserverWeatherTvs\obj\Debug\net6.0\ObserverWeatherTvs.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Observer\ObserverWeatherTvs\obj\Debug\net6.0\refint\ObserverWeatherTvs.dll
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Observer\ObserverWeatherTvs\obj\Debug\net6.0\ObserverWeatherTvs.pdb
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Observer\ObserverWeatherTvs\obj\Debug\net6.0\ObserverWeatherTvs.genruntimeconfig.cache
+C:\Users\jose\Desktop\Proyectos\dotNet\DesignPatterns\Observer\ObserverWeatherTvs\obj\Debug\net6.0\ref\ObserverWeatherTvs.dll
